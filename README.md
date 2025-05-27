@@ -24,7 +24,7 @@ A collection of my Tableau dashboards, highlighting my ability to transform data
 <a id='section_2'></a>
 
 #### 📈 Row Health – Marketing Campaign Efficiency Dashboard
-
+[(Back to table of contents)](#table_of_contents)
 * **Purpose:**
   Evaluates digital and offline marketing campaign effectiveness across signup rates, costs, and engagement metrics for health services.
 
@@ -43,7 +43,7 @@ A collection of my Tableau dashboards, highlighting my ability to transform data
 <a id='section_3'></a>
 
 #### 📈 LACITY.GOV Web Traffic Dashboard
-
+[(Back to table of contents)](#table_of_contents)
 * **Purpose:**
   Tracks web traffic and user behavior for Los Angeles City’s online portals by browser, device, and time.
 
@@ -62,7 +62,7 @@ A collection of my Tableau dashboards, highlighting my ability to transform data
 <a id='section_4'></a>
 
 #### 📈 Massachusetts General Hospital (MGH) KPI Dashboard
-
+[(Back to table of contents)](#table_of_contents)
 * **Purpose:**
   Monitors patient encounters, average hospital stay, cost per visit, insurance coverage, and admission trends from 2011 to 2022 at Massachusetts General Hospital.
 
@@ -81,9 +81,9 @@ A collection of my Tableau dashboards, highlighting my ability to transform data
 <a id='section_5'></a>
 
 #### 📈 Layoffs Tracker Dashboard
-
+[(Back to table of contents)](#table_of_contents)
 * **Purpose:**
-  Tracks layoffs across industries and companies globally, highlighting trends over a 5-year period.
+  Tracks layoffs across industries and companies in USA, highlighting trends over a 5-year period.
 
 * **Use Case:**
   Ideal for investors, policy analysts, or HR consultants monitoring economic stress signals and employment trends in tech and retail.
@@ -100,7 +100,7 @@ A collection of my Tableau dashboards, highlighting my ability to transform data
 <a id='section_6'></a>
 
 #### 📈 Just in Time – Supply Chain Performance Dashboard
-
+[(Back to table of contents)](#table_of_contents)
 * **Purpose:**
   Analyzes year-over-year performance metrics such as sales, orders, profit, and customer growth across product categories, regions, and departments.
 
